@@ -22,6 +22,6 @@ public class CarpenterBlocks extends SIOBaseModule
 	@Override
 	public void register()
     {
-		this.addTileEntity("carpentersblocks.tileentity.TEBase");
+		this.addTileEntity("com.carpentersblocks.tileentity.TEBase");
     }
 }
