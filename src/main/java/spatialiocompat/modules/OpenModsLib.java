@@ -19,6 +19,6 @@ public class OpenModsLib extends SIOBaseModule
 	public void register()
 	{
 		// Disabled for now since not tested
-//		this.addTileEntity( "openmods.tileentity.OpenTileEntity" );
+		this.addTileEntity( "openmods.tileentity.OpenTileEntity" );
 	}
 }
